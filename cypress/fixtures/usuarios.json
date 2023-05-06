@@ -1,0 +1,13 @@
+{
+    "usuarioValido": {
+      "email": "emailteste@1.com",
+      "senha": "1",
+      "nome": "Fabio",
+      "assunto": "Teste upload de arquivos"
+    },
+    "usuarioInvalido": {
+      "email": "emailteste@1xpto.com",
+      "senha": "123"
+    }
+  }
+  

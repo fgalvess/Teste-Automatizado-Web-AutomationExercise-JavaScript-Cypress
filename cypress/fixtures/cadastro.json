@@ -1,0 +1,15 @@
+{
+  "nome": "Fábio Guerra",
+  "email": "email@teste.com",
+  "senha": "12345678",
+  "receberNewsletter": true,
+  "aceitaTermos": true,
+  "primeiroNome": "Fábio",
+  "ultimoNome": "Guerra",
+  "empresa": "ShelbyLTDA",
+  "endereco": "Endereço Fictício",
+  "estado": "Estado Fictício",
+  "cidade": "Cidade Fictícia",
+  "cep": "12345",
+  "telefone": "123456789"
+}

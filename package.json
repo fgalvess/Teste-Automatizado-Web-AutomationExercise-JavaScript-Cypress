@@ -1,0 +1,17 @@
+{
+  "name": "automation_exercise",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para praticar e evoluir meus conhecimentos em automação com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fábio Guerra",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^2.0.1"
+  }
+}
