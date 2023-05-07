@@ -4,8 +4,8 @@
 <div style="display: inline_block"><br>
 <h2>Projeto desenvolvido para praticar e evoluir meus conhecimentos em automação com Cypress</h2>
   <h3>Ferramentas e Tecnologias utilizadas nesse projeto</h3>
-    <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img align="center" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+         <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="VsCode" width="25" height="25"></a>
+     <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"></a>
+     <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"><img src="https://icon-library.com/images/nodejs-icon/nodejs-icon-3.jpg" alt="Node.Js" width="25" height="25"></a>
+     <a href="https://www.cypress.io/" target="_blank" rel="noopener noreferrer"><img src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" alt="Cypress" width="25" height="25"></a>
 </div>
